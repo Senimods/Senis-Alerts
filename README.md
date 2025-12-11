@@ -1,1 +1,1 @@
-![Image description](https://raw.githubusercontent.com/Senimods/Senis-Alerts/main/Senis-Alerts.png)
+![Image description](https://raw.githubusercontent.com/Senimods/Senis-Alerts/refs/heads/main/Senis-Alerts.png)
